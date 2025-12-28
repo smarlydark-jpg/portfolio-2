@@ -31,9 +31,5 @@ I am a aspiring video game QA Tester hoping to learn more about the video game i
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
     </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
   </tbody>
 </table>

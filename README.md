@@ -12,7 +12,7 @@ I am a aspiring video game QA Tester hoping to learn more about the video game i
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:Mahoneyegwurube@gmail.com">Mahoneyegwurube@gmail.com</a></td>
+      <td><a href="mailto:Smarlydark@gmail.com">Smarlydark@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>

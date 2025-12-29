@@ -29,7 +29,7 @@ I am a aspiring video game QA Tester hoping to learn more about the video game i
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/feed/">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>

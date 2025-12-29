@@ -4,7 +4,7 @@ I am a aspiring video game QA Tester hoping to learn more about the video game i
 
 
 ## MY PROJECTS
-
+git commit -m "OG-3 Dhelmise has a bug where it’s Unite move (ultimate ability) does not heal on hit like it is supposed to."
 
 
 

@@ -7,7 +7,7 @@ I am a aspiring video game QA Tester hoping to learn more about the video game i
 ## MY PROJECTS
 <a href="https://1drv.ms/x/c/251cf9fb3b3e8caa/IQC6reYsNijOSpS1AJ0qKw1XATNEOGy_bdqWB9kbifG6ej0?e=aah2cE">Test cases</a>
 
-<a href="git commit -m "OG-3 Dhelmise has a bug where it’s Unite move (ultimate ability) does not heal on hit like it is supposed to".">Bug report</a>
+<a href="https://mahoneyegwurube.atlassian.net/browse/OG-3">1</a>
 
 ## CONTACT DETAILS
 

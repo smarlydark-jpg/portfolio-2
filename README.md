@@ -8,6 +8,7 @@ I am a aspiring video game QA Tester hoping to learn more about the video game i
 <a href="https://1drv.ms/x/c/251cf9fb3b3e8caa/IQC6reYsNijOSpS1AJ0qKw1XATNEOGy_bdqWB9kbifG6ej0?e=aah2cE">Test cases</a>
 
 <a href="https://mahoneyegwurube.atlassian.net/jira/software/projects/GJ/boards/67">Bug reports 1</a>
+
 <a href="https://mahoneyegwurube.atlassian.net/jira/software/projects/OG/boards/68">Bug reports 2</a>
 
 

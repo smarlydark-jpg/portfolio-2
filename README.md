@@ -5,8 +5,9 @@ I am a aspiring video game QA Tester hoping to learn more about the video game i
 
 Basic QA Testing Understanding: Test Planning, Bug Reports, Version Control etc.
 
-![image](https://github.com/smarlydark-jpg/portfolio-2/blob/main/Screenshot%202025-12-29%20203532.png?raw=true)
 
+
+![image](https://github.com/smarlydark-jpg/portfolio-2/blob/main/Screenshot%202025-12-29%20203532.png?raw=true)
 
 Understanding of SDLC 
 

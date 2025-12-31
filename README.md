@@ -37,7 +37,7 @@
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:smarlydark@gmail.com">Smarlydark@gmail.com</a></td>
+      <td><a href="mailto:mahoneyegwurube@gmail.com">My gmail</a></td>
     </tr>
     <tr>
       <td>📞</td>

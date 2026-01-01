@@ -130,7 +130,7 @@ GitHub: github.com/smarlydark-jpg
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="">Download my CV</a></td>
+      <td><a href="https://github.com/smarlydark-jpg/portfolio-2/blob/main/CV2.jpg?raw=true">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
